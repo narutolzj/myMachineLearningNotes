@@ -14,4 +14,4 @@ TODO & Notes:
       1.比较框架的支持度、速度、对数据库如mangoDB等的支持、可拓展性
       2.目前考虑的框架有：sparkMlib,systemML,weka,AlphaGo?
 	  3.目前我们所使用的主要算法有：决策树、深度学习、神经网络、分类、聚类
-	
+	sadakjdhskj
