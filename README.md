@@ -1,4 +1,4 @@
-# myMechineLearingNotes
+# myMachineLearningNotes
 ```Background:```
 	A machine learning group was built in our company,as a start group for machine learning.I am one of them.
 	
