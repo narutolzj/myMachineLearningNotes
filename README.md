@@ -6,7 +6,7 @@
 		and consider whether it is suitable for business,etc.
 	*Select a suitable framework for our follow-up task:such as data-mining,data-visualizing,modeling,etc.
 	
-	*Thought all I know about Machine-learing come from Andrew NG's coursera,
+	*Thought all I know about Machine-learing comes from Andrew NG's coursera,
 		but I wanna become en expert of this area.I believe will.
 	
 ##TODO & Notes:
