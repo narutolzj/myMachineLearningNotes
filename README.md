@@ -15,3 +15,6 @@
       2.目前考虑的框架有：sparkMlib,systemML,weka,AlphaGo?
 	  3.目前我们所使用的主要算法有：决策树、深度学习、神经网络、分类、聚类
 
+
+	  
+	  深度学习热度排名：https://github.com/aymericdamien/TopDeepLearning
